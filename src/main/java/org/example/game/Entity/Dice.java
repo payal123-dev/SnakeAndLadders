@@ -6,9 +6,6 @@ public class Dice {
 
     private final int min=1;
     private final int max=6;
-
-    ThreadLocal
-
     private final int  noOfDices;
 
     public Dice(int noOfDices) {
